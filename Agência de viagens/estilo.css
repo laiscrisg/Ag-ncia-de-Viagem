@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body{
+             color: #18473D;
+             font-family: unset;
+             
+		}
+
+
+
+.parag{
+
+    font-size: 30px;
+}
+
+
+
+#menu {
+
+		display: block;
+	}
+
+#menu ul {
+
+	    list-style: none; 
+        text-transform: uppercase; 
+        position: relative; 
+        top: 0px;
+        left: 100px; 
+        top: -20px;
+	}
+
+#menu li { 
+
+		display: inline-block; 
+        padding: 10px; 
+        margin: 4px; 
+
+    } 
